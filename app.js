@@ -78,6 +78,7 @@ const obj = {
 // console.log(obj.referenceForUnderAge)
 // console.log(obj.languages[2])
 // console.log(obj.degree.curses[0]);
+console.table(obj)
 
 // ASSIGNMENT AND REASSIGNMENT
 
@@ -89,7 +90,6 @@ var dinasour = "trex" // we don't use var anymore
 squirtle = "warturtle"
 charmander = "charmander"
 charmander = "charyzard"
-
 // console.log(pikachu)
 // console.log(squirtle)
 // console.log(charmander);
