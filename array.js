@@ -34,5 +34,5 @@ number--
 
 console.log(number)
 
-pokemon.forEach(ele => console.log(`You are now watching the ${ele} pokemon`))
+pokemon.forEach(element => console.log(`You are now watching the ${element} pokemon`))
   
