@@ -5,6 +5,8 @@ const int = 42;
 const notInt = "42";
 const intAndSomethinElse = 4.5;
 const intNegative = -42;
+// console.log(typeof int);
+// console.log(typeof notInt);
 
 // STRING
 const firstStr = "This is a string";
@@ -62,3 +64,18 @@ const obj = {
 // console.log(obj.referenceForUnderAge)
 // console.log(obj.languages[2])
 // console.log(obj.degree.curses[0]);
+
+// ASSIGNMENT AND REASSIGNMENT
+
+const pikachu = 'pikachu'
+let squirtle = "squirtle"
+var dinasour = "trex" // we don't use var anymore
+
+// pikachu = "raychu" // we cannot reassign when we use const
+squirtle = "warturtle"
+charmander = "charmander"
+charmander = "charyzard"
+
+// console.log(pikachu)
+// console.log(squirtle)
+// console.log(charmander);
