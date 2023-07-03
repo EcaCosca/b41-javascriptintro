@@ -46,6 +46,20 @@ const arr = [
 // we use indexing with square brakets to acces the differnt positions inside of an array
 // console.log(arr[8][1][1][0])
 
+const orderOfIndexesInAnArray = [
+    "To access the first position off this array we use the syntax '[0]'",
+    1,
+    2,
+    3,
+    [
+        "[4][0]",
+        "[4][1]",
+        "[4][2]",
+        "[4][3]"
+    ]
+]
+console.log(orderOfIndexesInAnArray[0])
+
 // OJECTS
 const obj = {
     // WE USE KEY VALUE PAIRS TO STORE INFORMATION
