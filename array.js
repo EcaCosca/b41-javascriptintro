@@ -17,12 +17,7 @@ for (let k = 100; k >= 0; k--) {
     console.log("i is equal to " + k)
 }
 console.log("The condition is not true anymore, For loop is done")
-  
-  // Runs 5 times, with values of step 0 through 4
-  // I encountered 0 pokemon so far
-  // I encountered 1 pokemon so far
-  // I encountered 2 pokemon so far
-  // ...
+
 
 //   ++
 let number = 1
