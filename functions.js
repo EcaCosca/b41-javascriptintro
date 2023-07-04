@@ -29,6 +29,7 @@ const anonymousArrowFunction = () => "Hey, I am an anonymous arrow function insi
     // }) 
 // THIS IS PART OF AN EXAMPLE OF REAL APLICATION OF ANONYMOUS ARROW FUNCTIONS
 document.querySelector('h1').addEventListener('click', ()=>alert("YOU HAVE CLICKED THE H1!")) 
+// WINK WINK
 
 // PARAMETERS INN FUNCTIONS AND ARGUMENTS
 // Note the difference between parameters and arguments: Function parameters are the names listed in the function's definition. Function arguments are the real values passed to the function
