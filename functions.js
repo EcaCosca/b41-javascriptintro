@@ -43,9 +43,7 @@ console.log(greeter('Jerry', 41));
 console.log(greeter('Chris', 41, "Lilian"));
 console.log(greetArrow('Tamer', 41, "Eca"));
    
-const square = (number) => {
-    return number * number;
-}
+const square = number => number * number
 
 square(3); // 9
    
